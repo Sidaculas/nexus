@@ -1,0 +1,40 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.quiz-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.recommendations-container {
+  padding: 2rem;
+}
+
+.clinic-card {
+  margin-bottom: 1rem;
+}
+
+.chatbot-sidebar {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .chatbot-sidebar {
+    display: none;
+  }
+}
