@@ -2,10 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/donor-matching": "pages/donor-matching.js",
-  "/fertility-coach": "pages/fertility-coach.js",
-  "/legal-guidance": "pages/legal-guidance.js",
-  "/onboarding-quiz": "pages/onboarding-quiz.js",
-  "/clinic-matching": "pages/clinic-matching.js"
+  "/": "pages/index.js"
 }

@@ -24,31 +24,6 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
-    ],
-    "/clinic-matching": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/clinic-matching.js"
-    ],
-    "/donor-matching": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/donor-matching.js"
-    ],
-    "/fertility-coach": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/fertility-coach.js"
-    ],
-    "/legal-guidance": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/legal-guidance.js"
-    ],
-    "/onboarding-quiz": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/onboarding-quiz.js"
     ]
   },
   "ampFirstPages": []
